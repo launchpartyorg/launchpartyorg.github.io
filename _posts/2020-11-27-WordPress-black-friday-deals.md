@@ -14,8 +14,8 @@ These offers are LIMITED TIME only. We’ve indicated the expiration date next t
 Note: We believe in transparency. If you buy using the links on our site, we may earn an affiliate commission. This helps us find great deals for you.
 
 <section>
+    <h2>WordPress Hosting Deals</h2>
     <div class="row">
-        <h2>WordPress Hosting Deals</h2>
         <div class="col col-md-2">
             <img src="https://launchpartyorg.github.io/assets/images/1.jpg">
         </div>
