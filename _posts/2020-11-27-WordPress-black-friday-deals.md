@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title:  "49+ WordPress Black Friday 2020 Deals!"
 # categories: [ Black Friday, WordPress, Web Hosting ]
 image: assets/images/1.jpg
