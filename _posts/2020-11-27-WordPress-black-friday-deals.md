@@ -1,10 +1,26 @@
 ---
 layout: post
-title:  "49+ WordPress Black Friday Deals!"
+title:  "49+ WordPress Black Friday 2020 Deals!"
 categories: [ Black Friday, WordPress, Web Hosting ]
 image: assets/images/1.jpg
 featured: true
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+Looking for the best Black Friday and Cyber Monday deals on your favorite WordPress products? Today and the next few days are the perfect time to buy premium WordPress plugins, themes, web hosting, and tools to grow your business.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+As always, to help you find the best deals, we have created the ultimate list of the best WordPress Black Friday and Cyber Monday deals for 2020.
+
+These offers are LIMITED TIME only. We’ve indicated the expiration date next to each offer.
+
+Note: We believe in transparency. If you buy using the links on our site, we may earn an affiliate commission. This helps us find great deals for you.
+
+<section>
+    <div class="row">
+        <h2>WordPress Hosting Deals</h2>
+        <div class="col col-md-2">
+            <img src="assets/images/1.jpg">
+        </div>
+        <div class="col col-md-10">
+            <img src="assets/images/1.jpg">
+        </div>
+    </div>
+</section>
