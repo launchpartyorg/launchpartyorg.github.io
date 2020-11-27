@@ -38,5 +38,16 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <button class="moov-btn btn" onclick="location.href='https://www.cloudways.com/en/?id=487764'" type="button">Get This Deal!</button>
             <hr class="my-4">
         </div>
+        <div class="col col-md-2">
+            <img src="https://launchpartyorg.github.io/assets/images/hostgator.jpg">
+        </div>
+        <div class="col col-md-10">
+            <h3><a href="https://partners.hostgator.com/n0YPX">Get 62% off HostGator</a></h3>
+            <p>HostGator is one of the best WordPress hosting company. They offer free domain + SSL with all hosting plans. Watch this space for more discounts and flash sales throughout the Black Friday weekend.</p>
+            <p>Coupon code: <a href="https://partners.hostgator.com/n0YPX">CLICK HERE</a></p>
+            <p><b>Note:</b> This deal is good until Dec 2nd.</p>
+            <button class="moov-btn btn" onclick="location.href='https://partners.hostgator.com/n0YPX'" type="button">Get This Deal!</button>
+            <hr class="my-4">
+        </div>
     </div>
 </section>
