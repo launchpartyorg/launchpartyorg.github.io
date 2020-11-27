@@ -24,7 +24,7 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <p>Bluehost is one of the best WordPress hosting companies and an officially recommended WordPress hosting provider. You can get web hosting + free domain + free SSL certificate for $2.65 / month on Black Friday.</p>
             <p>Coupon code: <a href="https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale">CLICK HERE</a></p>
             <p><b>Note:</b> This deal is good until Nov 30th.</p>
-            <a class="btn-success btn" href="https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale">Get This Deal!</a>
+            <button class="btn-success btn" onclick="location.href='https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale'" type="button">Get This Deal!</button>
         </div>
     </div>
 </section>
