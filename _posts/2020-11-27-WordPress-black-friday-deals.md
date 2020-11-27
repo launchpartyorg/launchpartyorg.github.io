@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WordPress Black Friday Offers Full list"
+title:  "49+ WordPress Black Friday Deals!"
 categories: [ Black Friday, WordPress, Web Hosting ]
 image: assets/images/1.jpg
 featured: true
