@@ -2,7 +2,7 @@
 layout: post-no-sidebar
 title:  "49+ WordPress Black Friday 2020 Deals!"
 # categories: [ Black Friday, WordPress, Web Hosting ]
-image: assets/images/1.jpg
+image: assets/images/49+ WordPress Black Friday 2020 Deals!.jpg
 featured: true
 ---
 Looking for the best Black Friday and Cyber Monday deals on your favorite WordPress products? Today and the next few days are the perfect time to buy premium WordPress plugins, themes, web hosting, and tools to grow your business.
