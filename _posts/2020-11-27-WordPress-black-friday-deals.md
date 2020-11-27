@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "We all wait for summer"
-categories: [ Jekyll, tutorial ]
+title:  "WordPress Black Friday Offers Full list"
+categories: [ Black Friday, WordPress, Web Hosting ]
 image: assets/images/1.jpg
 featured: true
 ---
