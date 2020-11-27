@@ -833,6 +833,15 @@ iframe {
     max-width:100%;
 }
 
+.moov-btn {
+    width: 100% !Important;
+    background: #675bff !Important;
+    height: auto;
+    padding: 6px 20px;
+    font-weight: 600;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+}
+
 @media (max-width: 1199px) {
     .container {
         width: 96%;
