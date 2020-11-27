@@ -31,8 +31,8 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <img src="https://launchpartyorg.github.io/assets/images/cloudways.png">
         </div>
         <div class="col col-md-10">
-            <h3><a href="https://www.cloudways.com/en/?id=487764">Get 40% off Cloudways for 4 Monthes</a></h3>
-            <p>Bluehost is one of the best WordPress hosting companies and an officially recommended WordPress hosting provider. You can get web hosting + free domain + free SSL certificate for $2.65 / month on Black Friday.</p>
+            <h3><a href="https://www.cloudways.com/en/?id=487764">Get 40% off Cloudways 4 Monthes</a></h3>
+            <p>Cloudways is the best managed cloud hosting company, use this coupon to get a massive 40% exclusive discount on all hosting plans for the next four months.</p>
             <p>Coupon code: <a href="https://www.cloudways.com/en/?id=487764">BFCM2020</a></p>
             <p><b>Note:</b> This deal is good until Nov 30th.</p>
             <button class="moov-btn btn" onclick="location.href='https://www.cloudways.com/en/?id=487764'" type="button">Get This Deal!</button>
