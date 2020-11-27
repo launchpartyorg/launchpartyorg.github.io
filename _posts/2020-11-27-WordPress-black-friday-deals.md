@@ -17,10 +17,10 @@ Note: We believe in transparency. If you buy using the links on our site, we may
     <div class="row">
         <h2>WordPress Hosting Deals</h2>
         <div class="col col-md-2">
-            <img src="assets/images/1.jpg">
+            <img src="https://launchpartyorg.github.io/assets/images/1.jpg">
         </div>
         <div class="col col-md-10">
-            <img src="assets/images/1.jpg">
+            <img src="https://launchpartyorg.github.io/assets/images/1.jpg">
         </div>
     </div>
 </section>
