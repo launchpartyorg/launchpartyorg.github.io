@@ -17,7 +17,7 @@ Note: We believe in transparency. If you buy using the links on our site, we may
     <h2>WordPress Hosting Deals</h2>
     <div class="row">
         <div class="col col-md-2">
-            <img src="https://launchpartyorg.github.io/assets/images/bluehost-logo-square.png">
+            <a href="https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale"><img src="https://launchpartyorg.github.io/assets/images/bluehost-logo-square.png"></a>
         </div>
         <div class="col col-md-10">
             <h3><a href="https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale">Get 70% off Bluehost</a></h3>
@@ -28,7 +28,7 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <hr class="my-4">
         </div>
         <div class="col col-md-2">
-            <img src="https://launchpartyorg.github.io/assets/images/cloudways.png">
+            <a href="https://www.cloudways.com/en/?id=487764"><img src="https://launchpartyorg.github.io/assets/images/cloudways.png"></a>
         </div>
         <div class="col col-md-10">
             <h3><a href="https://www.cloudways.com/en/?id=487764">Get 40% off Cloudways 4 Monthes</a></h3>
@@ -39,7 +39,7 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <hr class="my-4">
         </div>
         <div class="col col-md-2">
-            <img src="https://launchpartyorg.github.io/assets/images/hostgator.jpg">
+            <a href="https://partners.hostgator.com/n0YPX"><img src="https://launchpartyorg.github.io/assets/images/hostgator.jpg"></a>
         </div>
         <div class="col col-md-10">
             <h3><a href="https://partners.hostgator.com/n0YPX">Get 62% off HostGator</a></h3>
