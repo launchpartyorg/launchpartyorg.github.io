@@ -25,8 +25,8 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <p>Coupon code: <a href="https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale">CLICK HERE</a></p>
             <p><b>Note:</b> This deal is good until Nov 30th.</p>
             <button class="moov-btn btn" onclick="location.href='https://www.bluehost.com/track/blue0host/blackfriday2020?page=/special/black-friday-sale'" type="button">Get This Deal!</button>
+            <hr class="my-4">
         </div>
-        <hr class="my-4">
         <div class="col col-md-2">
             <img src="https://launchpartyorg.github.io/assets/images/cloudways.png">
         </div>
@@ -36,7 +36,7 @@ Note: We believe in transparency. If you buy using the links on our site, we may
             <p>Coupon code: <a href="https://www.cloudways.com/en/?id=487764">BFCM2020</a></p>
             <p><b>Note:</b> This deal is good until Nov 30th.</p>
             <button class="moov-btn btn" onclick="location.href='https://www.cloudways.com/en/?id=487764'" type="button">Get This Deal!</button>
+            <hr class="my-4">
         </div>
-        <hr class="my-4">
     </div>
 </section>
